@@ -1,6 +1,10 @@
 # Telecom Customer Retention Assistant
 
-Live app: Add your Streamlit URL here after deployment.
+## Live Demo
+
+Try the Telecom Customer Churn Prediction App:
+
+https://telecom-customer-churn-prediction-j2xpypdxpyevzq9jv9w7os.streamlit.app/
 
 Predicts a telecom customer's churn probability and suggests possible retention actions.
 
